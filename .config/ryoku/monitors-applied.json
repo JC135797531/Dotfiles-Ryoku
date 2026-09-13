@@ -1,0 +1,30 @@
+{
+  "monitors": [
+    {
+      "id": "AU Optronics|0xF791|",
+      "output": "eDP-1",
+      "mode": "1920x1080@60.00",
+      "position": "0x0",
+      "scale": 1,
+      "transform": 0,
+      "vrr": 0,
+      "mirror": "",
+      "disabled": false,
+      "cm": "srgb",
+      "sdrbrightness": 1
+    },
+    {
+      "id": "AOC|24G15N|AP15443Z03981",
+      "output": "HDMI-A-1",
+      "mode": "1920x1080@60.00",
+      "position": "1920x0",
+      "scale": 1,
+      "transform": 0,
+      "vrr": 0,
+      "mirror": "",
+      "disabled": false,
+      "cm": "srgb",
+      "sdrbrightness": 1
+    }
+  ]
+}

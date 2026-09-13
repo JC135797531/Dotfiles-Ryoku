@@ -1,0 +1,15 @@
+{
+    "bgBlur": 2,
+    "heroImage": "file:///home/jc/Downloads/your-name-shooting-7680x4320-14938.jpg",
+    "heroPosX": 0.5,
+    "heroPosY": 0.5,
+    "heroStrength": 1,
+    "horizonColor": "#FFFFFF",
+    "horizonMode": "fixed",
+    "radius": 16,
+    "resultSettleMs": 360,
+    "showGreeting": true,
+    "showWeather": true,
+    "variant": "hero",
+    "weatherUnit": "C"
+}

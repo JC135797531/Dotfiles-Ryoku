@@ -1,0 +1,67 @@
+# Ryoku palette -> Alacritty. Rendered by matugen; do not edit.
+
+[colors.primary]
+background = '#131318'
+foreground = '#e4e1e9'
+
+[colors.cursor]
+text = '#131318'
+cursor = '#e4e1e9'
+
+[colors.vi_mode_cursor]
+text = '#131318'
+cursor = '#bfc2ff'
+
+[colors.selection]
+text = '#131318'
+background = '#bfc2ff'
+
+[colors.search.matches]
+foreground = '#131318'
+background = '#e8b9d5'
+
+[colors.search.focused_match]
+foreground = '#131318'
+background = '#bfc2ff'
+
+[colors.footer_bar]
+foreground = '#e4e1e9'
+background = '#1f1f25'
+
+[colors.hints.start]
+foreground = '#131318'
+background = '#e8b9d5'
+
+[colors.hints.end]
+foreground = '#131318'
+background = '#e8b9d5'
+
+[colors.normal]
+black = '#131318'
+red = '#ffb4ab'
+green = '#bfc2ff'
+yellow = '#e8b9d5'
+blue = '#c5c4dd'
+magenta = '#bfc2ff'
+cyan = '#e8b9d5'
+white = '#e4e1e9'
+
+[colors.bright]
+black = '#918f9a'
+red = '#ffb4ab'
+green = '#bfc2ff'
+yellow = '#e8b9d5'
+blue = '#c5c4dd'
+magenta = '#bfc2ff'
+cyan = '#918f9a'
+white = '#e0e0ff'
+
+[colors.dim]
+black = '#131318'
+red = '#ffb4ab'
+green = '#bfc2ff'
+yellow = '#e8b9d5'
+blue = '#c5c4dd'
+magenta = '#bfc2ff'
+cyan = '#e8b9d5'
+white = '#e4e1e9'

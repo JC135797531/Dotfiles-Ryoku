@@ -1,0 +1,17 @@
+{
+  "profiles": {
+    "power-saver": {
+      "platformProfile": "cool"
+    },
+    "balanced": {
+      "epp": "balance_power",
+      "platformProfile": "balanced"
+    },
+    "performance": {
+      "governor": "performance",
+      "epp": "performance",
+      "platformProfile": "performance"
+    }
+  },
+  "aspm": "powersupersave"
+}

@@ -1,0 +1,12 @@
+/*.log
+/*.cache
+**/.cache/
+**/*.pid
+**/*.sock
+.DS_Store
+Thumbs.db
+*.pem
+*.key
+*.env
+**/credentials
+**/tokens
